@@ -1,16 +1,1 @@
-# iot
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a project developed keeping in mind the safety of women in India,it is linked to arduino + Firebase(realtime database), in short if a person is in danger this app will send an SMS to the person's friends,family members and will keep doing it in realtime.
